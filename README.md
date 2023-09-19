@@ -1,1 +1,1 @@
-# proj-predict-house-prices
+# Predicting House Prices using Machine Learning
