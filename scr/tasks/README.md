@@ -5,7 +5,7 @@
 | Task No | Task Name                           | Details                                        | Task Leader          |
 |---------|-------------------------------------|------------------------------------------------|----------------------|
 | 0       | task-0-knowledge                    | Research about previous works.                 | Victor Sillerico     |
-| 1       | task-1-data-collection              | Collection of data from various sources.       | Victor Sillerico     |
+| 1       | task-1-data-collection              | Collection of data from various sources.       | Sami Özsoy           |
 | 2       | task-2-data-cleaning                | Preprocessing the dataset.                     | Frederic Menezes     |
 | 3       | task-3-data-exploration             | Explore and analyze the dataset.               | Assigned people      |
 | 4       | task-4-data-modeling                | Work on data modeling.                         | Assigned people      |
